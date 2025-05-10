@@ -17,12 +17,6 @@
 
 ---
 
-## 📸 Zrzut ekranu
-
-> 🖼️ Dodaj tu screena jak odpalisz apke – np. `assets/screen.png`
-
----
-
 ## ⚙️ Funkcje
 
 ✅ Syntax Highlight dla Pythona  
