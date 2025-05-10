@@ -1,4 +1,4 @@
-# 🐍 PyVoxil – Lekki Edytor Python z Highlightem i Konsolą
+# 🐍 PyVoxil
 
 ![Made with PyQt5](https://img.shields.io/badge/Made%20with-PyQt5-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.x-green?style=for-the-badge)
