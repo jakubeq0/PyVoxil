@@ -28,8 +28,6 @@
 
 ---
 
-## 🚀 Jak uruchomić
-
 ### 📦 Wymagania
 
 ```bash
